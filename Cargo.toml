@@ -1,0 +1,8 @@
+[package]
+name = "ternary-cipher"
+version = "0.1.0"
+edition = "2021"
+description = "Ternary cryptography — ciphers, hash commitments, zero-knowledge, and secret sharing over Z₃"
+license = "MIT"
+
+[dependencies]
